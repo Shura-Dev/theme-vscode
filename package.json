@@ -1,0 +1,21 @@
+{
+    "name": "darkshura",
+    "displayName": "DarkShura",
+    "description": "theme style grubBox",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkShura",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkShura-color-theme.json"
+            }
+        ]
+    }
+}
